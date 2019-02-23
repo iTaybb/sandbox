@@ -1,0 +1,3 @@
+[submodule "israblog_backup"]
+	path = israblog_backup
+	url = https://github.com/iTaybb/israblog_backup
